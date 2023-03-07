@@ -1,0 +1,5 @@
+<h2>2. Avatar</h2>
+			<img class="avatar" src="images/elonmusk.jpg" alt="Elon Musk">
+			<h2>3. Button</h2>
+			<a href="#"class="btn-blue" target="_blank">Submit</a>
+		</div>
